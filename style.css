@@ -81,7 +81,6 @@
 
     .hero-img{
         margin-top: 20px;
-        margin-left: 55px;
     }
 }
 
@@ -196,4 +195,5 @@
         flex-direction: column;
         gap: 10px;
     }
+
 }
